@@ -9,3 +9,5 @@ hello tianhaoran
 new add.
 new add2.
 new add in branch newbranchtianhaoran.
+
+new add to test confiction(this time in newbranchtianhaoran)
